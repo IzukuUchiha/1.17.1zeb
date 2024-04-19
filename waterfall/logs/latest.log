@@ -1,0 +1,71 @@
+[19:40:22] [main/INFO]: Using mbed TLS based native cipher.
+[19:40:22] [main/INFO]: Using zlib based native compressor.
+[19:40:22] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562
+[19:40:22] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[19:40:22] [main/INFO]: Epoll is working, utilising it!
+[19:40:22] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[19:40:22] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[19:40:22] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[19:40:22] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[19:40:22] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[19:40:22] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[19:40:22] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=562, git=92b5149)
+[19:40:22] [main/INFO]: Attempting to Jenkins download module cmd_alert v562
+[19:40:23] [main/INFO]: Download complete
+[19:40:23] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=562, git=92b5149)
+[19:40:23] [main/INFO]: Attempting to Jenkins download module cmd_find v562
+[19:40:23] [main/INFO]: Download complete
+[19:40:23] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=562, git=92b5149)
+[19:40:23] [main/INFO]: Attempting to Jenkins download module cmd_list v562
+[19:40:23] [main/INFO]: Download complete
+[19:40:23] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=562, git=92b5149)
+[19:40:23] [main/INFO]: Attempting to Jenkins download module cmd_send v562
+[19:40:23] [main/INFO]: Download complete
+[19:40:23] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=562, git=92b5149)
+[19:40:23] [main/INFO]: Attempting to Jenkins download module cmd_server v562
+[19:40:24] [main/INFO]: Download complete
+[19:40:24] [main/INFO]: Attempting to update plugin from null to ModuleVersion(build=562, git=92b5149)
+[19:40:24] [main/INFO]: Attempting to Jenkins download module reconnect_yaml v562
+[19:40:24] [main/INFO]: Download complete
+[19:40:24] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[19:40:24] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[19:40:24] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[19:40:24] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[19:40:24] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[19:40:24] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[19:40:24] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[19:40:24] [main/WARN]: :>  
+[19:40:24] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
+[19:40:24] [main/WARN]: :>  
+[19:40:24] [main/WARN]: :>  This plugin wasn't tested to be 'working'
+[19:40:24] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
+[19:40:24] [main/WARN]: :>  apart from the versions listed below:
+[19:40:24] [main/WARN]: :>  
+[19:40:24] [main/WARN]: :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:eda268b:1797
+[19:40:24] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:92b5149:562
+[19:40:24] [main/WARN]: :>  - FlameCord: 1.1.1
+[19:40:24] [main/WARN]: :>  
+[19:40:24] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
+[19:40:24] [main/WARN]: :>  
+[19:40:24] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
+[19:40:24] [main/WARN]: :>  
+[19:40:24] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[19:40:24] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.10 by lax1dude
+[19:40:24] [main/WARN]: Forced host server pvp is not defined
+[19:40:24] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[19:40:24] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[19:40:24] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[19:40:24] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[19:40:24] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[19:40:24] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[19:40:24] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[19:40:24] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[19:40:24] [main/INFO] [EaglercraftXBungee]: Downloading from maven: https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.45.0.0/sqlite-jdbc-3.45.0.0.jar
+[19:40:24] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Downloading new certificate: https://eaglercraft.com/backup.cert
+[19:40:24] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/1.17.1zeb/waterfall/plugins/EaglercraftXBungee/eagcert/$dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
+[19:40:24] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[19:40:25] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
+[19:40:25] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:25577
+[19:47:44] [Netty Worker IO Thread #3/ERROR]: [/[0:0:0:0:0:0:0:1%0]:33768] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a41
+[19:47:44] [Netty Worker IO Thread #4/ERROR]: [/[0:0:0:0:0:0:0:1%0]:33770] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a41
+[19:47:44] [Netty Worker IO Thread #5/ERROR]: [/[0:0:0:0:0:0:0:1%0]:33780] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a41
